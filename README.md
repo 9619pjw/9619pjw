@@ -3,7 +3,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=9619pjw)](https://solved.ac/9619pjw)
 
-# 📚 Stacks
+# 📚 Tech Stack
 </br>
 <p>
    <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Java&logoColor=white"></a> &nbsp
@@ -15,9 +15,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=9619pjw&show_icons=true&theme=radical)
 
 # 🏫 Education
-- 이스트소프트 백엔드 개발자 양성과정 < 오르미 > 4기 - ``2024-01 ~ ``
-- 스파르타 코딩클럽 웹 개발 종합반 - ``2022-07 ~ 2022-08`` 
-- 가천대학교 컴퓨터공학과 - ``2022-03 ~ 2024-04``
+- EstSoft Back-end Developer < Ormi > 4th - ``2024-01 ~ ``
+- Sparta CodingClub Web Develop Class - ``2022-07 ~ 2022-08`` 
+- Gachon Univ. Computer Engineering - ``2022-03 ~ 2024-04``
  
 <!--
 **9619pjw/9619pjw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
