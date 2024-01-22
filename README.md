@@ -8,7 +8,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=9619pjw&show_icons=true&theme=radical)
-출처: https://yoon990.tistory.com/38 [개발저장소:티스토리]
+
 
 <!--
 **9619pjw/9619pjw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
