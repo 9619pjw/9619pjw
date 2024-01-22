@@ -17,7 +17,7 @@
 # 🏫 Education
 - EstSoft Back-end Developer < Ormi > 4th - ``2024-01 ~ ``
 - Sparta CodingClub Web Develop Class - ``2022-07 ~ 2022-08`` 
-- Gachon Univ. Computer Engineering - ``2022-03 ~ 2024-04``
+- Gachon Univ. Computer Engineering - ``2022-03 ~ 2024-02``
  
 <!--
 **9619pjw/9619pjw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
