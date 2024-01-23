@@ -4,7 +4,6 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=9619pjw)](https://solved.ac/9619pjw)
 
 # 📚 Stack
-</br>
 
 ### ✔️Back-end
 <p>
@@ -24,9 +23,7 @@
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white">&nbsp;
 </p>
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=9619pjw&show_icons=true&theme=radical)
+[![9619pjw's GitHub stats](https://github-readme-stats.vercel.app/api?username=9619pjw&show_icons=true)](https://github.com/9619pjw)
 
 # 🏫 Education
 - EstSoft Back-end Developer < Ormi > 4th - ``2024-01 ~ ``
