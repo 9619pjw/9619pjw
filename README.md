@@ -9,7 +9,7 @@
 ### ✔️Back-end
 <p>
 <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Java&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/SpringBoot-#6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/springboot-#6DB33F?style=for-the-badge&logo=springboot&logoColor=white">&nbsp;
 </p>
 
 ### ✔️Frond-end 
