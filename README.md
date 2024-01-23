@@ -26,7 +26,7 @@
 [![9619pjw's GitHub stats](https://github-readme-stats.vercel.app/api?username=9619pjw&show_icons=true)](https://github.com/9619pjw)
 
 # 🏫 Education
-- EstSoft Back-end Developer < Ormi > 4th - ``2024-01 ~ ``
+- EstSoft Back-end Developer BootCamp < Ormi > 4th - ``2024-01 ~ ``
 - Sparta CodingClub Web Develop Class - ``2022-07 ~ 2022-08`` 
 - Gachon Univ. Computer Engineering - ``2022-03 ~ 2024-02``
  
