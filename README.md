@@ -28,17 +28,20 @@
 [![9619pjw's GitHub stats](https://github-readme-stats.vercel.app/api?username=9619pjw&show_icons=true)](https://github.com/9619pjw)
 
 # 🏫 Education
-- EstSoft Back-end Developer Bootcamp < Oreumi > 4th - ``2024-01 ~ 2024-03``
-- SuresoftTech internship - ``2023-06 ~ 2023-08``
-- Sparta CodingClub Web Develop Class - ``2022-07 ~ 2022-08`` 
 - Gachon Univ. Computer Engineering - ``2022-03 ~ 2024-02``
+- Sparta CodingClub Web Develop Class - ``2022-07 ~ 2022-08`` 
+- EstSoft Back-end Developer Bootcamp < Oreumi > 4th - ``2024-01 ~ 2024-03``
+
+# 🏢 Career
+- SuresoftTech QA Internship - ``2023-06 ~ 2023-08``
+- Noaats Back-end Developer - ``2024-04 ~ ``
  
 <!--
 **9619pjw/9619pjw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
