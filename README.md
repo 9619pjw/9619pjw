@@ -16,10 +16,15 @@
 <p>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=green">&nbsp;
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=yellow">&nbsp;
+</p>
+
+### ✔️Database
+<p>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">&nbsp; 
 <img src="https://img.shields.io/badge/oracle-003545?style=for-the-badge&logo=oracle&logoColor=white">&nbsp;
- <img src="https://img.shields.io/badge/postresql-000000?style=for-the-badge&logo=postreSQL&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/postresql-000000?style=for-the-badge&logo=postreSQL&logoColor=white">&nbsp;
 </p>
+
 
 ### ✔️Frond-end 
 <p>
@@ -33,8 +38,12 @@
 
 # 🏫 Education
 - Gachon Univ. Computer Engineering - ``2022-03 ~ 2024-02``
-- Sparta CodingClub Web Develop Class - ``2022-07 ~ 2022-08`` 
+- Sparta CodingClub Web Develop Class - ``2022-07 ~ 2022-08``
 - EstSoft Back-end Developer Bootcamp < Oreumi > 4th - ``2024-01 ~ 2024-03``
+
+# 🪪 Certificate
+- SQL Developer - ``2022-12``
+- Engineer Information Processing - ``2023-06`` 
 
 # 🏢 Career
 - SuresoftTech "Controller Tester" QA Internship - ``2023-06 ~ 2023-08``
