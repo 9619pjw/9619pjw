@@ -4,10 +4,14 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=9619pjw)](https://solved.ac/9619pjw)
 
 # 📚 Stack
+### ✔️Language
+<p>
+ <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>&nbsp;
+ <img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp;
+</p>
 
 ### ✔️Back-end
 <p>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=green">&nbsp;
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=yellow">&nbsp;
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">&nbsp; 
