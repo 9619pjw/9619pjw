@@ -33,8 +33,8 @@
 - EstSoft Back-end Developer Bootcamp < Oreumi > 4th - ``2024-01 ~ 2024-03``
 
 # 🏢 Career
-- SuresoftTech QA Internship - ``2023-06 ~ 2023-08``
-- Noaats Back-end Developer - ``2024-04 ~ ``
+- SuresoftTech "Controller Tester" QA Internship - ``2023-06 ~ 2023-08``
+- Noaats "MIPSII" Back-end Developer - ``2024-04 ~ ``
  
 <!--
 **9619pjw/9619pjw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
