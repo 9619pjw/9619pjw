@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=9619pjw)](https://solved.ac/9619pjw)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=9619pjw)](https://solved.ac/9619pjw)
+[![9619pjw's GitHub stats](https://github-readme-stats.vercel.app/api?username=9619pjw&show_icons=true)](https://github.com/9619pjw)
 
 # 📚 Stack
 ### ✔️Language
@@ -34,7 +34,6 @@
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white">&nbsp;
 </p>
 
-[![9619pjw's GitHub stats](https://github-readme-stats.vercel.app/api?username=9619pjw&show_icons=true)](https://github.com/9619pjw)
 
 # 🏫 Education
 - Gachon Univ. Computer Engineering - ``2022-03 ~ 2024-02``
