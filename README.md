@@ -46,8 +46,8 @@
 - Engineer Information Processing - ``2023-06`` 
 
 # 🏢 Career
-- SuresoftTech "Controller Tester" QA Internship - ``2023-06 ~ 2023-08``
-- Noaats "MIPSII" Back-end Developer - ``2024-04 ~ ``
+- SuresoftTech QA Internship - ``2023-06 ~ 2023-08``
+- Noaats Back-end Developer - ``2024-04 ~ ``
  
 <!--
 **9619pjw/9619pjw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
