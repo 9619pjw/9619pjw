@@ -42,8 +42,9 @@
 - EstSoft Back-end Developer Bootcamp < Oreumi > 4th - ``2024-01 ~ 2024-03``
 
 # 🪪 Certificate
-- SQL Developer - ``2022-12``
-- Engineer Information Processing - ``2023-06`` 
+- SQLD (SQL Developer) - ``2022-12``
+- Engineer Information Processing - ``2023-06``
+- ADsP (Advanced Data Analytics Semi-Professional) - 
 
 # 🏢 Career
 - SuresoftTech QA Internship - ``2023-06 ~ 2023-08``
