@@ -47,8 +47,8 @@
 - ADsP (Advanced Data Analytics Semi-Professional) - 
 
 # 🏢 Career
-- SuresoftTech QA Internship - ``2023-06 ~ 2023-08``
-- Noaats Back-end Developer - ``2024-04 ~ ``
+- Tester Solution QA Internship - ``2023-06 ~ 2023-08``
+- Financial System Back-end Developer - ``2024-04 ~ ``
  
 <!--
 **9619pjw/9619pjw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
