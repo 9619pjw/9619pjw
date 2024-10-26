@@ -37,7 +37,7 @@
 
 
 # 🏫 Education
-- Gachon Univ. Computer Engineering - ``2022-03 ~ 2024-02``
+- Gachon Univ. Computer Engineering - ``~ 2024-02``
 - Sparta CodingClub Web Develop Class - ``2022-07 ~ 2022-08``
 - EstSoft Back-end Developer Bootcamp < Oreumi > 4th - ``2024-01 ~ 2024-03``
 
