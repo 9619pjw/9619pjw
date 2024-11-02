@@ -45,6 +45,7 @@
 - SQLD (SQL Developer) - ``2022-12``
 - Engineer Information Processing - ``2023-06``
 - ADsP (Advanced Data Analytics Semi-Professional) - 
+- Linux Master Grade II - 
 
 # 🏢 Career
 - Tester Solution QA Internship - ``2023-06 ~ 2023-08``
