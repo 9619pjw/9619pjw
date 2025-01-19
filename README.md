@@ -35,11 +35,9 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">&nbsp;
 </p>
 
-
-# 🏫 Education
-- Gachon Univ. Computer Engineering - ``~ 2024-02``
-- Sparta CodingClub Web Develop Class - ``2022-07 ~ 2022-08``
-- EstSoft Back-end Developer Bootcamp < Oreumi > 4th - ``2024-01 ~ 2024-03``
+# 🏢 Career
+- Tester Solution QA Internship - ``2023-06 ~ 2023-08``
+- Financial System Back-end Developer - ``2024-04 ~ ``
 
 # 🪪 Certificate
 - SQLD (SQL Developer) - ``2022-12``
@@ -47,10 +45,11 @@
 - ADsP (Advanced Data Analytics Semi-Professional) - ``2024-11``
 - Linux Master Grade II - 
 
-# 🏢 Career
-- Tester Solution QA Internship - ``2023-06 ~ 2023-08``
-- Financial System Back-end Developer - ``2024-04 ~ ``
- 
+# 🏫 Education
+- Gachon Univ. Computer Engineering - ``~ 2024-02``
+- Sparta CodingClub Web Develop Class - ``2022-07 ~ 2022-08``
+- EstSoft Back-end Developer Bootcamp < Oreumi > 4th - ``2024-01 ~ 2024-03``
+
 <!--
 **9619pjw/9619pjw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
