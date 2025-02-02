@@ -2,7 +2,11 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=9619pjw)](https://solved.ac/9619pjw)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9619pjw)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
 [![9619pjw's GitHub stats](https://github-readme-stats.vercel.app/api?username=9619pjw&show_icons=true)](https://github.com/9619pjw)
+--> 
 
 # 📚 Stack
 ### ✔️Language
