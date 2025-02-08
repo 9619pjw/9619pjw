@@ -37,6 +37,7 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">&nbsp;
 </p>
 
+
 # 🏢 Career
 - Tester Solution QA Internship - ``2023-06 ~ 2023-08``
 - Financial System Back-end Developer - ``2024-04 ~ ``
